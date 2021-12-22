@@ -1,0 +1,293 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    background-color: rgb(51 51 51);  
+}
+
+.listitems{
+    margin-left: 15%;
+    margin-top: 5px;
+}
+.listitems li{
+    display: inline-block; 
+}
+
+.listitems img{
+    height: 18px;
+    width: 15px;
+}
+.list{
+    margin-left: 35px;
+    color: white;
+  
+}
+
+.list h5{
+    font-size: 12px;
+}
+
+.fa{
+    color: white;
+    font-size: 12px;
+    margin-left: 30px;
+}
+
+
+/* ------------------------red------------------------------------------ */
+
+.red{
+    background-color: #e34140;
+    margin-top: -23px;
+    height: 50px;
+}
+
+.red h5{
+    text-align: center;
+    line-height: 45px;
+
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: white;
+}
+
+/* -----------------------------giftpage---------------------------------- */
+.giftpage{
+    background-color: #87ceeb54;
+}
+#giftimg{
+    margin-left: 48%;
+    margin-top: 40px;
+}
+
+.giftpage h1,h3{
+    text-align: center;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.giftpage h1{
+    font-size: 51px;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.giftpage h3{
+    color: skyblue;
+    /* margin-top: -20px; */
+}
+/* ----------------------------------gifpics------------------------------- */
+.giftpics{
+    margin-left: 18%;
+}
+
+.giftpics li{
+    display: inline-block;
+}
+
+.gp img{
+    height: 281px;
+    width: 289px;
+}
+
+/* --------------------13pro-------------------------------------------------- */
+
+.pro h1{
+    font-size: 50px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-align: center;
+} 
+
+.pro h2{
+    /* margin-top: -30px; */
+    text-align: center;
+}
+.pro a{
+    text-align: center;
+    color: #2997ff;
+}
+.pro img{
+    width: 43%;
+    margin-left: 30%;
+}
+
+
+.pro1 h1{
+    font-size: 50px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+} 
+
+.pro1 h2{
+    /* margin-top: -30px; */
+    text-align: center;
+    color: #ffa2f3ea;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.pro1 a{
+    text-align: center;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #2997ff;
+}
+.pro1 img{
+    width: 43%;
+    margin-left: 30%;
+}
+
+
+/* ------------------------------------columns------------------------------ */
+
+.col-lg-6{
+    /* border: 2px solid red; */
+    height: 600px;
+}
+
+#c1 h3,h5,h6,a{
+    text-align: center;
+}
+
+#c1 h6{
+    padding-top: 20px;
+    color: red;
+}
+
+#c1 h3{
+    color: black;
+    font-weight: bold;
+}
+
+#c1 h5{
+    color:red;
+}
+#c1 img{
+    width: 98%;
+    padding-top: 76px;
+}
+
+#c2 h1,h4{
+    text-align: center;
+    color: white;
+}
+
+#c2 h1{
+    font-weight: bold;
+    margin-top: 55%;
+    color: white;
+}
+
+#c2 h4{
+    color: white;
+}
+
+#c3 h1,h4{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#c3 h1{
+    font-weight: bold;
+}
+
+#c3 img{
+    width: 52%;
+    padding-top: 40px;
+    margin-left: 170px;
+}
+
+#c4 h2,h4{
+    color: black;
+}
+
+#c4 h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+#c4 img{
+    height: 300px;
+}
+
+#c5 h1{
+    margin-top: 70px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#c5 img{
+    width: 104%;
+}
+
+
+#c6 h2{
+    color: white;
+    text-align: center;
+}
+
+#c6 h1{
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    margin-top: 345px;
+    
+}
+
+/* ---------------------------h5---------------------------------------------- */
+
+.h5 h5{
+    color: grey;
+    display: inline;
+    font-size: 13px;
+}
+
+.h5{
+    margin-top: 40px;
+   
+}
+
+/* ---------------------------------col-lg-2------------------------------------ */
+
+.col-lg-2{
+    /* border: 2px solid red; */
+    width: 230px;
+    height: 345px;
+    color: grey;
+
+}
+
+.col-lg-2 h4{
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(83, 81, 81);
+    text-align: left;
+}
+
+.col-lg-2 h5{
+    font-size: 12px;
+    text-align: left;
+}
+
+.more h4{
+    color: grey;
+    margin-left: -45%;
+    font-size: 12px;
+}
+
+
+.footer{
+    margin-left: -18px;
+}
+.footer li{
+    display: inline-block;
+    margin-left: 45px;
+    color: grey;
+}
+
+.footer h5{
+    font-size: 12px;
+}
+
+#india{
+    /* float: right; */
+    margin-left: 175px;
+}
